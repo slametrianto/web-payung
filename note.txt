@@ -1,0 +1,12 @@
+main.js
+style.css di folder css harus dirubah
+accordion.js dan app.js di js
+
+
+
+php_value memory_limit 256M
+php_value post_max_size 256M
+php_value upload_max_filesize 64M
+php_value max_input_vars 1800
+php_value max_execution_time 300
+php_value max_input_time 300
